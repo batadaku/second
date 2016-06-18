@@ -1,9 +1,9 @@
 workspace add 1
 
-folder add1
+workspace change7
 folder add2
-
+workspace add8
 workspace change2
 workspace chang3
-
+workspace for resolve conflict
 workspace add 4
