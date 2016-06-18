@@ -1,4 +1,9 @@
 workspace add 1
+
 folder add1
 folder add2
+
+workspace change2
+workspace chang3
+
 workspace add 4
